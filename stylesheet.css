@@ -5,7 +5,8 @@
 @font-face {
     font-family: 'mikhak_mediummedium';
     src: url('mikhak_medium_medium-webfont.woff2') format('woff2'),
-         url('mikhak_medium_medium-webfont.woff') format('woff');
+         url('mikhak_medium_medium-webfont.woff') format('woff'),
+        url('mikhak.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
